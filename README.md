@@ -1,6 +1,6 @@
 ### Low-Power
 Lightweight low power library for Arduino.
-
+This program calculates the current using a non-invasive current sensor connected to an arduino, and then sends the data to a web server using an ESP8266 WIFI device. Upon receiving the measurements, one or more databases are saved by cygnus. This work aims to create an IoT environment.
 Version: 1.60
 
 Date: 01-04-2016
